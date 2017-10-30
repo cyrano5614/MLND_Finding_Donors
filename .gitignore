@@ -1,4 +1,4 @@
-.git
-.ipynb_checkpoints
-__pycache__
+.git/
+.ipynb_checkpoints/
+__pycache__/
 .gitignore
